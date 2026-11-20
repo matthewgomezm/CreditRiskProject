@@ -41,6 +41,7 @@ datasets/
 *.jsonl
 *.sqlite
 *.db
+*.docx
 
 # --- Trained models and experiment outputs ---
 models/
