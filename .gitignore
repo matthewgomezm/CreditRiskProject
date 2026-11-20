@@ -42,6 +42,7 @@ datasets/
 *.sqlite
 *.db
 *.docx
+*.pdf
 
 # --- Trained models and experiment outputs ---
 models/
