@@ -1,0 +1,2 @@
+# Credit Default Risk Project
+This repository holds code that builds a machine learning model that focuses on credit risk classification and prediction. The predictive model uses real-world financial data and simulates decision-making on new loan applications. The model will be used to assess the likelihood of future loan defaults
