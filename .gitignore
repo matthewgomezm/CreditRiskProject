@@ -53,6 +53,7 @@ wandb/
 *.pickle
 *.joblib
 *.model
+.claude/
 
 # --- Logs, caches, and test output ---
 *.log
